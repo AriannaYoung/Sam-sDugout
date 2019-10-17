@@ -1,7 +1,8 @@
-.carousel-item p {
-  position: relative;
-}
+
 .badge {
-  background-color: grey;
+  background-color: green;
   color: black;
+}
+.carousel-inner p {
+  font-family: "Times New Roman", Times, serif;
 }
