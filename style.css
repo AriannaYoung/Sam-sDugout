@@ -10,3 +10,18 @@
 .navbar-toggler-icon {
   background-image: url("img/bars.png");
 }
+footer {
+  width: 25%;
+  background-color: gold;
+  background-color:rgba(255,255,0,0.6);
+  padding: 3%;
+  color: red;
+}
+h5 {
+  font-size: 40px;
+  background-color: gold;
+  background-color:rgba(255,255,0,0.6)
+
+  background-size: 3em 25%;
+
+}
