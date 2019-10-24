@@ -1,8 +1,5 @@
 
-.search {
-  background-color: yellow;
-  color: black;
-}
+
 .navbar{
   background-color: gold;
   background-color:rgba(255,255,0,0.6);
@@ -19,9 +16,6 @@ footer {
 }
 h5 {
   font-size: 40px;
-  background-color: gold;
-  background-color:rgba(255,255,0,0.6)
-
-  background-size: 3em 25%;
-
+  color: rgb(0, 0, 77);
+  background-color:rgba(255,255,0,0.6);
 }
