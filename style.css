@@ -19,3 +19,10 @@ h5 {
   color: rgb(0, 0, 77);
   background-color:rgba(255,255,0,0.6);
 }
+h6 {
+ font-weight: bold;
+ font-size: 500%;
+ position: center;
+ left: 100px;
+ top: 150px;
+}
