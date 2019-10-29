@@ -26,3 +26,16 @@ h6 {
  left: 100px;
  top: 150px;
 }
+.carousel-caption{
+  display: block;
+  height: auto;
+  max-width: 100%;
+  line-height: 1;
+  width: 100%; // Add this
+  }
+  .nav-link{
+  color: rgb(0, 0, 77);
+  }
+.nav-brand{
+  background-color: green;
+}
