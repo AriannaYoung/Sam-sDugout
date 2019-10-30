@@ -16,17 +16,19 @@ footer {
 }
 h5 {
   font-size: 40px;
-  color: rgb(0, 0, 77);
-  background-color:rgba(255,255,0,0.6);
+  color:#9B898B;
+
 }
 h6 {
  font-weight: bold;
- font-size: 500%;
+ font-size: 300%;
  position: center;
  left: 100px;
  top: 150px;
+   color: rgb(0, 0, 77);
+    text-shadow: 2px 2px 5px red;
 }
-.carousel-caption{
+caption{
   display: block;
   height: auto;
   max-width: 100%;
