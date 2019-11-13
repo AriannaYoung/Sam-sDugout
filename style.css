@@ -19,6 +19,7 @@ h5 {
   color:#9B898B;
   overflow: hidden;
    position: relative;
+
 }
 h6 {
  font-weight: bold;
@@ -106,6 +107,14 @@ input[type=submit]:hover {
   }
 }
 
-.sam{
+p{
+color:	#000080;
+}
+
+h4{
+  color: 	#F0E68C;
+}
+
+.firstname{
   
 }
