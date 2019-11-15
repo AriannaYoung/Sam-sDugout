@@ -108,13 +108,9 @@ input[type=submit]:hover {
 }
 
 p{
-color:	#000080;
+color:rgb(0, 0, 77);
 }
 
 h4{
-  color: 	#F0E68C;
-}
-
-.firstname{
-  
+  color: gold;
 }
