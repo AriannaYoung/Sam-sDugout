@@ -27,8 +27,9 @@ h6 {
  text-align: center;
  left: 100px;
  top: 150px;
-   color: rgb(0, 0, 77);
-    text-shadow: 2px 2px 5px red;
+ color: rgb(0, 0, 77);
+ text-shadow: 2px 2px 5px red;
+ font-family: 'Chewy', cursive;
 }
 caption{
   display: block;
@@ -113,4 +114,5 @@ color:rgb(0, 0, 77);
 
 h4{
   color: gold;
+
 }
