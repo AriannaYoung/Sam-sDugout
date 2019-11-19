@@ -29,7 +29,7 @@ h6 {
  top: 150px;
  color: rgb(0, 0, 77);
  text-shadow: 2px 2px 5px red;
- font-family: 'Chewy', cursive;
+ font-family: 'Wendy One', sans-serif;
 }
 caption{
   display: block;
@@ -110,9 +110,11 @@ input[type=submit]:hover {
 
 p{
 color:rgb(0, 0, 77);
+font-family: 'Charm', cursive;
+font-size: %;
 }
 
 h4{
   color: gold;
-
+  font-family: 'Wendy One', sans-serif;
 }
