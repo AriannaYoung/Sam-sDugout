@@ -107,5 +107,15 @@ input[type=submit]:hover {
 }
 
 .sam{
-  
+  font-family:cursive;
+ color:	#191970;
+}
+
+h4{
+  color:#800000;
+  font-family:cursive;
+}
+p{
+  font-family: cursive;
+
 }
