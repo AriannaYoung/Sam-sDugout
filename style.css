@@ -19,6 +19,7 @@ h5 {
   color:#9B898B;
   overflow: hidden;
    position: relative;
+
 }
 h6 {
  font-weight: bold;
@@ -26,8 +27,9 @@ h6 {
  text-align: center;
  left: 100px;
  top: 150px;
-   color: rgb(0, 0, 77);
-    text-shadow: 2px 2px 5px red;
+ color: rgb(0, 0, 77);
+ text-shadow: 2px 2px 5px red;
+ font-family: 'Wendy One', sans-serif;
 }
 caption{
   display: block;
@@ -106,16 +108,13 @@ input[type=submit]:hover {
   }
 }
 
-.sam{
-  font-family:cursive;
- color:	#191970;
+p{
+color:rgb(0, 0, 77);
+font-family: 'Charm', cursive;
+font-size: 100%;
 }
 
 h4{
-  color:#800000;
-  font-family:cursive;
-}
-p{
-  font-family: cursive;
-
+  color: gold;
+  font-family: 'Alata', sans-serif;
 }
