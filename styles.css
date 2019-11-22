@@ -112,9 +112,16 @@ p{
 color:rgb(0, 0, 77);
 font-family: 'Charm', cursive;
 font-size: 100%;
+text-align: center;
 }
 
 h4{
   color: gold;
   font-family: 'Alata', sans-serif;
+}
+.hero-image{
+
+}
+h1{
+  text-align: center;
 }
