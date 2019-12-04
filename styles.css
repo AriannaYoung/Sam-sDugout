@@ -1,18 +1,17 @@
 
 
 .navbar{
-  background-color: gold;
-  background-color:rgba(255,255,0,0.6);
+  background-color: red;
+;
 }
 .navbar-toggler-icon {
   background-image: url("img/bars.png");
 }
 footer {
   width: 25%;
-  background-color: gold;
-  background-color:rgba(255,255,0,0.6);
+  background-color: red;
   padding: 3%;
-  color: red;
+;
 }
 h5 {
   font-size: 40px;
@@ -28,7 +27,7 @@ h6 {
  left: 100px;
  top: 150px;
  color: rgb(0, 0, 77);
- text-shadow: 2px 2px 5px red;
+ text-shadow: 9px -5px 5px #FFD900;
  font-family: 'Wendy One', sans-serif;
 }
 caption{
@@ -41,9 +40,6 @@ caption{
   .nav-link{
   color: rgb(0, 0, 77);
   }
-.nav-brand{
-  background-color: green;
-}
 * {
   box-sizing: border-box;
 }
