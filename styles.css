@@ -1,45 +1,49 @@
-
-
-.navbar{
+.navbar {
   background-color: red;
-;
+  ;
 }
+
 .navbar-toggler-icon {
   background-image: url("img/bars.png");
 }
+
 footer {
   width: 25%;
   background-color: red;
   padding: 3%;
-;
+  ;
 }
+
 h5 {
   font-size: 40px;
-  color:#9B898B;
+  color: #9B898B;
   overflow: hidden;
-   position: relative;
+  position: relative;
+}
 
-}
 h6 {
- font-weight: bold;
- font-size: 300%;
- text-align: center;
- left: 100px;
- top: 150px;
- color: rgb(0, 0, 77);
- text-shadow: 9px -5px 5px #FFD900;
- font-family: 'Wendy One', sans-serif;
+  font-weight: bold;
+  font-size: 300%;
+  text-align: center;
+  left: 100px;
+  top: 150px;
+  color: rgb(0, 0, 77);
+  text-shadow: 9px -5px 5px #FFD900;
+  font-family: 'Wendy One', sans-serif;
 }
-caption{
+
+caption {
   display: block;
   height: auto;
   max-width: 100%;
   line-height: 1;
   width: 100%; // Add this
-  }
-  .nav-link{
+}
+
+.nav-link {
   color: rgb(0, 0, 77);
-  }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -104,21 +108,23 @@ input[type=submit]:hover {
   }
 }
 
-p{
-color:rgb(0, 0, 77);
-font-family: 'Solway', cursive;
-font-size: 140%;
-text-align: center;
+p {
+  color: rgb(0, 0, 77);
+  font-family: 'Solway', cursive;
+  font-size: 140%;
+  text-align: center;
 }
 
-h4{
+h4 {
   color: gold;
   font-family: 'Alata', sans-serif;
   font-size: 170%
 }
-.hero-image{
-text-align: center;
+
+.hero-image {
+  text-align: center;
 }
-h1{
+
+h1 {
   text-align: center;
 }
