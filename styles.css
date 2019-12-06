@@ -119,9 +119,15 @@ h4{
   color: gold;
   font-family: 'Alata', sans-serif;
 }
+h5{
+  text-align: center;
+}
 .hero-image{
 text-align: center;
 }
 h1{
   text-align: center;
+}
+h2{
+  text-align:center;
 }
