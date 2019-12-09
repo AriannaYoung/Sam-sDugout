@@ -1,6 +1,5 @@
 .navbar {
   background-color: red;
-  ;
 }
 
 .navbar-toggler-icon {
@@ -126,10 +125,15 @@ h4 {
 }
 
 h1 {
+  color: gold;
   text-align: center;
+  font-size: 170%;
+  font-family: 'Alata', sans-serif;
 }
-h2{
+
+h2 {
   color: gold;
   font-family: 'Alata', sans-serif;
-  font-size: 170%
+  font-size: 170%;
+  text-align: center;
 }
