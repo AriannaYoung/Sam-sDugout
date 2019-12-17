@@ -116,9 +116,9 @@ p {
 }
 
 h4 {
-  color: gold;
+  color: rgb(128,0,0);
   font-family: 'Alata', sans-serif;
-  font-size: 170%
+  font-size: 200%
 }
 
 .hero-image {
